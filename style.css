@@ -63,7 +63,7 @@ body {
   font-weight: 500;
   line-height: 22.54px;
   word-wrap: break-word;
-  margin-bottom: 6px;
+  margin-bottom: 20px;
 }
 .container .card .card_title .prices {
   display: flex;
